@@ -26,3 +26,7 @@ The following components from the Jetpack library are used:
 
 ## :camera_flash: Screenshots
 
+![Screenshot 1](screenshots/Nasa1.jpeg)
+![Screenshot 2](screenshots/Nasa2.jpeg)
+![Screenshot 1](screenshots/Nasa3.jpeg)
+![Screenshot 2](screenshots/Nasa4.jpeg)
