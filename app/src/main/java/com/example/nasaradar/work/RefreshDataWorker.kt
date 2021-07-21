@@ -9,7 +9,7 @@ import retrofit2.HttpException
 
 class RefreshDataWorker(appContext: Context, params: WorkerParameters): CoroutineWorker(appContext, params) {
     companion object {
-        const val WORK_NAME = "RefreshAstroidWorker"
+        const val WORK_NAME = "RefreshAsteroidWorker"
     }
 
     override suspend fun doWork(): Result {
